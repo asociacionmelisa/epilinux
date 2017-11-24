@@ -1,0 +1,98 @@
+CHAGELOG EpiLinux v5
+
+SISTEMA OPERATIVO
+=================
+
+UBUNTU 16.04.3 LTS + LXDE
+
+
+SOFTWARE BIOESTADÍSTICO Y DE CIENCIAS DE LA SALUD:
+==================================================
+
+EPIDAT 4.2
+http://www.sergas.es/Saude-publica/EPIDAT
+Programa de libre distribución desenvolvido polo Servizo de Epidemioloxía da Dirección Xeral de Saúde Pública de utilidade para a análise estatística e epidemiolóxica de datos.
+ 
+EPIINFO
+http://wwwn.cdc.gov/epiinfo/
+Software estatístico de dominio público para a epidemioloxía desenvolvido polo CDC (Centros para el Control y la Prevención de Enfermedades) que lle permite aos usuarios revisar os datos da enquisa para valores atípicos e datos inconsistentes, levar a cabo unha análise descriptiva e xerar de modo sinxelo arquivos cos resultados da análise.
+
+FREEMAT
+http://freemat.sourceforge.net/
+Lenguaxe de programación de código aberto acerca de computación numérica similar a sistemas comerciais como Matlab e IDL que permite o desenvolvemento de algoritmos en paralelo e ten capacidade de visualización e impresión en 3D.
+
+GRETL
+http://gretl.sourceforge.net/es.html
+Software libre e de código aberto para a análise econométrica que trata entre outras técnicas o modelo de regresión e a análise de series temporais cunha interfaz sinxela e intuitiva.
+
+JASP
+https://jasp-stats.org/
+Programa gráfico libre, de código aberto e uso sinxelo para a análise estatística que proporciona diversos métodos estatísticos bayesianos.
+
+OCTAVE
+https://www.gnu.org/software/octave/
+É un programa para realizar cálculos numéricos considerado o equivalente libre de Matlab. Proporciona capacidades para a solución numérica de problemas lineais e non lineais e gráficos para a visualización e manipulación de datos.
+
+OPENEPI
+http://www.openepi.com/
+É unha calculadora web gratuita, dispoñible para o seu uso en epidemioloxía, bioestatística, saúde pública e medicina que proporciona unha serie de ferramentas epidemiolóxicas e estatísticas para os datos resumidos ou agregados.
+
+PSPP
+https://www.gnu.org/software/pspp/
+É unha aplicación de software libre para a análise de datos que proporciona funcionalidades básicas como: frecuencias, táboas cruzadas, comparación de media, regresión lineal, fiabilidade, reordenamento de datos e probas non paramétricas entre outras.
+
+QGIS
+http://www.qgis.org/es/site/
+É un Sistema de Información Xeográfica de código aberto que soporta numerosos formatos e funcionalidades de datos vector, datos ráster e bases de datos.
+
+R
+https://www.r-project.org/
+Linguaxe de programación que ofrece unha ampla variedade de ferramentas estatísticas (modelos lineais e non lineais, tests estatísticos, análises de series temporais, etc) e gráficas manexado a través dunha consola na que se introduce o código propio da súa lenguaxe para obter os resultados desexados.
+
+R COMMANDER
+http://www.rcommander.com/
+É unha interfaz para a análise estatística que permite manexar R sen necesidade de coñecer o seu código.
+
+R STUDIO
+https://www.rstudio.com/
+É un entorno de desenvolvemento integrado (IDE) para a linguaxe de programación R. Inclúe unha consola, un editor de sintaxe que apoia a execución do código e ferramentas para o trazado, a depuración e a xestión do espazo de traballo.
+
+SCILAB
+http://www.scilab.org/
+Software para a analise numérica que posee a súa propia linguaxe de programación, orientado ao uso de matrices e vectores.
+
+WINBUGS
+http://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/
+Software estatístico para a análise bayesiana usando os chamados métodos MCMC (Markov Chain Monte Carlo).
+
+JULIA
+
+GENIUS
+
+GEOGEBRA
+
+MAXIMA
+
+QTIPLOT
+
+SCIDAVIS
+
+BIBUS
+
+VISUAL STUDIO CODE
+
+OPENMOLAR
+
+FREEMEDFORMS
+
+G3DATA
+
+EPIGRASS
+
+
+OTRO SOFTWARE:
+==============
+
+
+
+
