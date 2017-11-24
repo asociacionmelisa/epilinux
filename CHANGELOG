@@ -3,67 +3,67 @@ CHAGELOG EpiLinux v5
 SISTEMA OPERATIVO
 =================
 
-UBUNTU 16.04.3 LTS + LXDE
+UBUNTU CORE 16.04.3 LTS + LXDE
 
 
-SOFTWARE BIOESTADÕSTICO Y DE CIENCIAS DE LA SALUD:
+SOFTWARE BIOESTAD√çSTICO Y DE CIENCIAS DE LA SALUD:
 ==================================================
 
 EPIDAT 4.2
 http://www.sergas.es/Saude-publica/EPIDAT
-Programa de libre distribuciÛn desenvolvido polo Servizo de EpidemioloxÌa da DirecciÛn Xeral de Sa˙de P˙blica de utilidade para a an·lise estatÌstica e epidemiolÛxica de datos.
+Programa de libre distribuci√≥n desenvolvido polo Servizo de Epidemiolox√≠a da Direcci√≥n Xeral de Sa√∫de P√∫blica de utilidade para a an√°lise estat√≠stica e epidemiol√≥xica de datos.
  
 EPIINFO
 http://wwwn.cdc.gov/epiinfo/
-Software estatÌstico de dominio p˙blico para a epidemioloxÌa desenvolvido polo CDC (Centros para el Control y la PrevenciÛn de Enfermedades) que lle permite aos usuarios revisar os datos da enquisa para valores atÌpicos e datos inconsistentes, levar a cabo unha an·lise descriptiva e xerar de modo sinxelo arquivos cos resultados da an·lise.
+Software estat√≠stico de dominio p√∫blico para a epidemiolox√≠a desenvolvido polo CDC (Centros para el Control y la Prevenci√≥n de Enfermedades) que lle permite aos usuarios revisar os datos da enquisa para valores at√≠picos e datos inconsistentes, levar a cabo unha an√°lise descriptiva e xerar de modo sinxelo arquivos cos resultados da an√°lise.
 
 FREEMAT
 http://freemat.sourceforge.net/
-Lenguaxe de programaciÛn de cÛdigo aberto acerca de computaciÛn numÈrica similar a sistemas comerciais como Matlab e IDL que permite o desenvolvemento de algoritmos en paralelo e ten capacidade de visualizaciÛn e impresiÛn en 3D.
+Lenguaxe de programaci√≥n de c√≥digo aberto acerca de computaci√≥n num√©rica similar a sistemas comerciais como Matlab e IDL que permite o desenvolvemento de algoritmos en paralelo e ten capacidade de visualizaci√≥n e impresi√≥n en 3D.
 
 GRETL
 http://gretl.sourceforge.net/es.html
-Software libre e de cÛdigo aberto para a an·lise economÈtrica que trata entre outras tÈcnicas o modelo de regresiÛn e a an·lise de series temporais cunha interfaz sinxela e intuitiva.
+Software libre e de c√≥digo aberto para a an√°lise econom√©trica que trata entre outras t√©cnicas o modelo de regresi√≥n e a an√°lise de series temporais cunha interfaz sinxela e intuitiva.
 
 JASP
 https://jasp-stats.org/
-Programa gr·fico libre, de cÛdigo aberto e uso sinxelo para a an·lise estatÌstica que proporciona diversos mÈtodos estatÌsticos bayesianos.
+Programa gr√°fico libre, de c√≥digo aberto e uso sinxelo para a an√°lise estat√≠stica que proporciona diversos m√©todos estat√≠sticos bayesianos.
 
 OCTAVE
 https://www.gnu.org/software/octave/
-… un programa para realizar c·lculos numÈricos considerado o equivalente libre de Matlab. Proporciona capacidades para a soluciÛn numÈrica de problemas lineais e non lineais e gr·ficos para a visualizaciÛn e manipulaciÛn de datos.
+√â un programa para realizar c√°lculos num√©ricos considerado o equivalente libre de Matlab. Proporciona capacidades para a soluci√≥n num√©rica de problemas lineais e non lineais e gr√°ficos para a visualizaci√≥n e manipulaci√≥n de datos.
 
 OPENEPI
 http://www.openepi.com/
-… unha calculadora web gratuita, dispoÒible para o seu uso en epidemioloxÌa, bioestatÌstica, sa˙de p˙blica e medicina que proporciona unha serie de ferramentas epidemiolÛxicas e estatÌsticas para os datos resumidos ou agregados.
+√â unha calculadora web gratuita, dispo√±ible para o seu uso en epidemiolox√≠a, bioestat√≠stica, sa√∫de p√∫blica e medicina que proporciona unha serie de ferramentas epidemiol√≥xicas e estat√≠sticas para os datos resumidos ou agregados.
 
 PSPP
 https://www.gnu.org/software/pspp/
-… unha aplicaciÛn de software libre para a an·lise de datos que proporciona funcionalidades b·sicas como: frecuencias, t·boas cruzadas, comparaciÛn de media, regresiÛn lineal, fiabilidade, reordenamento de datos e probas non paramÈtricas entre outras.
+√â unha aplicaci√≥n de software libre para a an√°lise de datos que proporciona funcionalidades b√°sicas como: frecuencias, t√°boas cruzadas, comparaci√≥n de media, regresi√≥n lineal, fiabilidade, reordenamento de datos e probas non param√©tricas entre outras.
 
 QGIS
 http://www.qgis.org/es/site/
-… un Sistema de InformaciÛn Xeogr·fica de cÛdigo aberto que soporta numerosos formatos e funcionalidades de datos vector, datos r·ster e bases de datos.
+√â un Sistema de Informaci√≥n Xeogr√°fica de c√≥digo aberto que soporta numerosos formatos e funcionalidades de datos vector, datos r√°ster e bases de datos.
 
 R
 https://www.r-project.org/
-Linguaxe de programaciÛn que ofrece unha ampla variedade de ferramentas estatÌsticas (modelos lineais e non lineais, tests estatÌsticos, an·lises de series temporais, etc) e gr·ficas manexado a travÈs dunha consola na que se introduce o cÛdigo propio da s˙a lenguaxe para obter os resultados desexados.
+Linguaxe de programaci√≥n que ofrece unha ampla variedade de ferramentas estat√≠sticas (modelos lineais e non lineais, tests estat√≠sticos, an√°lises de series temporais, etc) e gr√°ficas manexado a trav√©s dunha consola na que se introduce o c√≥digo propio da s√∫a lenguaxe para obter os resultados desexados.
 
 R COMMANDER
 http://www.rcommander.com/
-… unha interfaz para a an·lise estatÌstica que permite manexar R sen necesidade de coÒecer o seu cÛdigo.
+√â unha interfaz para a an√°lise estat√≠stica que permite manexar R sen necesidade de co√±ecer o seu c√≥digo.
 
 R STUDIO
 https://www.rstudio.com/
-… un entorno de desenvolvemento integrado (IDE) para a linguaxe de programaciÛn R. Incl˙e unha consola, un editor de sintaxe que apoia a execuciÛn do cÛdigo e ferramentas para o trazado, a depuraciÛn e a xestiÛn do espazo de traballo.
+√â un entorno de desenvolvemento integrado (IDE) para a linguaxe de programaci√≥n R. Incl√∫e unha consola, un editor de sintaxe que apoia a execuci√≥n do c√≥digo e ferramentas para o trazado, a depuraci√≥n e a xesti√≥n do espazo de traballo.
 
 SCILAB
 http://www.scilab.org/
-Software para a analise numÈrica que posee a s˙a propia linguaxe de programaciÛn, orientado ao uso de matrices e vectores.
+Software para a analise num√©rica que posee a s√∫a propia linguaxe de programaci√≥n, orientado ao uso de matrices e vectores.
 
 WINBUGS
 http://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/
-Software estatÌstico para a an·lise bayesiana usando os chamados mÈtodos MCMC (Markov Chain Monte Carlo).
+Software estat√≠stico para a an√°lise bayesiana usando os chamados m√©todos MCMC (Markov Chain Monte Carlo).
 
 JULIA
 
